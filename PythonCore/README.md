@@ -10,7 +10,7 @@ Jedes Projekt wurde als Übung zu zahlreichen Konzepten erstellt – von den Gru
 
 ## 📂 Projekte *(Projects)*
 
-### 📊 [`Learning Progress Tracker`](PythonCore/Learning%20Progress%20Tracker)  
+### 📊 [`Learning Progress Tracker`](Learning%20Progress%20Tracker)  
 Ein **Kommandozeilen-Tool** zur **Erfassung**, **Verwaltung** und **statistischen Auswertung** der Lernfortschritte mehrerer Studierender.  
 *(A **command-line tool** for **tracking**, **managing**, and **analyzing** the learning progress of multiple students.)*
 
