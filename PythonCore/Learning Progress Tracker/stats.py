@@ -8,8 +8,6 @@ class Stats:
         """ This helping function returns two lists. One consisting of all courses considered most popular
         and one considered least popular. The function will return empty lists, if no students where provided. """
 
-        #TODO ensure no same course can be in both lists
-
         if not students:
             return [], []
 
@@ -37,8 +35,6 @@ class Stats:
         students and one of all courses considered having the least active students. The function will return empty lists,
         if no students where provided. """
 
-        # TODO ensure no same course can be in both lists
-
         if not students:
             return [], []
 
@@ -64,8 +60,6 @@ class Stats:
         """ This helping function returns two lists. One consisting of courses considered most difficult
         and consisting of courses considered least difficult. The function will return empty lists,
         if no students where provided. """
-
-        # TODO ensure no same course can be in both lists
 
         if not students:
             return [], []

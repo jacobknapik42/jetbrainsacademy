@@ -69,11 +69,14 @@ class Student:
 
     def get_points(self):
         """ This method returns the points stored for all available courses for self. """
-        # TODO improve this method by ensuring indexes for output according to Courses class.
+
+        # TODO consider improving this method to ensure indexes for output according to Courses class.
         return self._course_points[Courses.PYTHON], self._course_points[Courses.DSA], self._course_points[Courses.DATABASES], self._course_points[Courses.FLASK]
 
     def get_assignments(self):
         """ This method returns the number of assignments published per course for all available courses for self. """
+
+        # TODO consider improving this method to ensure indexes for output according to Courses class.
         return self._course_assignments[Courses.PYTHON], self._course_assignments[Courses.DSA], self._course_assignments[Courses.DATABASES], self._course_assignments[Courses.FLASK]
 
     def notify(self):
