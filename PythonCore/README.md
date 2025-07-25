@@ -18,8 +18,8 @@ Ein **Kommandozeilen-Tool** zur **Erfassung**, **Verwaltung** und **statistische
   
 
 ### 📝 [`Markdown Editor`](Markdown%20Editor)
-Ein einfaches **Kommandozeilen-Tool** zur **Erstellung von MD-Dateien** in der Markdown Formattierungssprache.  
-*(A simple **command-line tool** for **creating markdown files** using the Markdown synstax.)*
+Ein einfaches **Kommandozeilen-Tool** zur **Erstellung von Markdown-Dateien** mit der Markdown-Syntax. 
+*(A simple **command-line tool** for **creating markdown files** using Markdown syntax.)*
 
 🚥 Status: `Abgeschlossen` `(Completed)`  
 
