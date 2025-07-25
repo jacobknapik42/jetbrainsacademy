@@ -14,8 +14,14 @@ Jedes Projekt wurde als Übung zu zahlreichen Konzepten erstellt – von den Gru
 Ein **Kommandozeilen-Tool** zur **Erfassung**, **Verwaltung** und **statistischen Auswertung** der Lernfortschritte mehrerer Studierender.  
 *(A **command-line tool** for **tracking**, **managing**, and **analyzing** the learning progress of multiple students.)*
 
-🚥 Status: `Abgeschlossen` `(Completed)`
+🚥 Status: `Abgeschlossen` `(Completed)`  
+  
 
+### 📝 [`Markdown Editor`](Markdown%20Editor)
+Ein einfaches **Kommandozeilen-Tool** zur **Erstellung von MD-Dateien** in der Markdown Formattierungssprache.  
+*(A simple **command-line tool** for **creating markdown files** using the Markdown synstax.)*
+
+🚥 Status: `Abgeschlossen` `(Completed)`  
 
 ---
 
